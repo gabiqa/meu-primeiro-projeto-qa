@@ -33,13 +33,15 @@ Cada caso de teste contém:
 Se houver bugs encontrados durante a simulação, eles serão documentados em:  
 📄 `relatorio-de-bugs.md`
 
-## 🚀 Progresso
+## 📌 Progresso do Projeto
 
-- [x] Repositório criado
-- [x] README criado
-- [ ] Casos de teste adicionados
-- [ ] Simulação de testes executada
-- [ ] Relatório de bugs documentado
+✅ Estrutura do repositório criada  
+✅ README.md com explicação do projeto  
+✅ Casos de teste manuais documentados (`casos-de-teste.md`)  
+✅ Testes simulados e status preenchidos  
+✅ Relatório de bugs criado (`relatorio-de-bugs.md`)  
+🚧 Testes automatizados com Cypress (em breve!)
+
 
 ## 👩‍💻 Sobre mim
 
