@@ -1,6 +1,3 @@
-# meu-primeiro-projeto-qa
-Primeiro projeto para aprender testes manuais e automatizados na área de QA.
-
 # Testes manuais em um site de cadastro de usuários
 
 Este projeto simula uma atividade de QA (Garantia da Qualidade), onde realizo testes manuais em um sistema fictício de cadastro de usuários.
