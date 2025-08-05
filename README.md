@@ -44,3 +44,6 @@ Se houver bugs encontrados durante a simulação, eles serão documentados em:
 ## 👩‍💻 Sobre mim
 
 Meu nome é Gabi, sou estudante de Engenharia de Software e estou iniciando na área de QA. Este projeto faz parte do meu portfólio para conquistar meu primeiro estágio na área de qualidade de software.
+
+> ⚠️ Este projeto é uma simulação criada para fins de estudo e portfólio. Nenhuma aplicação real foi utilizada.
+
