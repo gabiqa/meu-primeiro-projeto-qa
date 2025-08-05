@@ -1,0 +1,6 @@
+| ID   | Funcionalidade             | Passos                                                                 | Resultado Esperado                                | Status           | Observações     |
+|------|----------------------------|------------------------------------------------------------------------|---------------------------------------------------|------------------|-----------------|
+| CT01 | Cadastro de novo usuário   | 1. Acessar a página de cadastro<br>2. Preencher todos os campos<br>3. Clicar em "Cadastrar" | Usuário cadastrado com sucesso e redirecionado   | Aguardando teste |                 |
+| CT02 | Validação de e-mail        | 1. Acessar a página de cadastro<br>2. Inserir e-mail inválido<br>3. Clicar em "Cadastrar" | Mensagem de erro: "E-mail inválido"              | Aguardando teste |                 |
+| CT03 | Campo obrigatório: nome    | 1. Deixar o campo nome em branco<br>2. Clicar em "Cadastrar"           | Mensagem de erro: "Campo obrigatório"            | Aguardando teste |                 |
+| CT04 | Senha com menos de 6 dígitos | 1. Inserir senha com 4 dígitos<br>2. Clicar em "Cadastrar"            | Alerta: "Senha muito curta"                      | Aguardando teste |   
